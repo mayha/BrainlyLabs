@@ -3,7 +3,7 @@ BrainlyLabs
 
 Some examples from Tests, written for mobile Apps (from Brainly group).
 The test are written for #4 KraQA meetup: "Appium - mobile test automation".
-The code above is the sample test written in pytohon to communicate with appium server and perform user actions on Android Device.
+The code above is the sample test written in python to communicate with appium server and perform user actions on Android Device.
 
 
 I cannot published my .apk package, so my instruction how to run it is useless.
