@@ -6,18 +6,15 @@ The test are written for #4 KraQA meetup: "Appium - mobile test automation".
 The code above is the sample test written in pytohon to communicate with appium server and perform user actions on Android Device.
 
 
-# Appium + python tests - how to set up?
+I cannot published my .apk package, so my instruction how to run it is useless.
+
+All you can see here is the sample test code in python.
 
 
-- Install **Appium app** from [here](http://appium.io/).
-- Run appium app, and set all the preferences for Android. [Here is an instruction how to do it](https://github.com/appium/appium-dot-app#parameter-guide).
-- Download an [appium client for python](https://github.com/appium/python-client), and add it to the directory with your pyton tests
-- Install the Webdriver library for python
-- Launch an appium server (click the **Launch button**) and try to run appium inspector, when the server starts - if you set all teh preferences, inspector should run without the problem
-- Run your tests: 
+To read more please visit:
 
-```shell
-  python TestAddTask.py
-```
+- [Appium.io](http://appium.io/).
+- [Appium configuration](https://github.com/appium/appium-dot-app#parameter-guide).
+
 
 In case of any problems write to me: @marianneSiara, machluchachlumaria@gmail.com
