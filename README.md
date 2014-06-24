@@ -8,7 +8,7 @@ The code above is the sample test written in pytohon to communicate with appium 
 
 I cannot published my .apk package, so my instruction how to run it is useless.
 
-All you can see here is the sample test code in python.
+All you can see here is the sample test code in python: please see the **NewAddTaskTest.py** for test code, and **__init__.py** in xpath directory for the dictionary of xpath's to UI elements.
 
 
 To read more please visit:
